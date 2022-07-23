@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatiasDevA
 - 👀 I’m interested in technology, Software Development
-- 🌱 I’m currently learning  HTML, CSS,JS, python. besides Kotlin
+- 🌱 I’m currently a angular developer and coming soon fullstack!!
 
 <!---
 MatiasDevA/MatiasDevA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
